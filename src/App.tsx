@@ -18,6 +18,7 @@ function App() {
       </div>
       <h1>Xeno Codex</h1>
       <h2>This tool can save you during your missions Helldivers !</h2>
+      <h4>Test 2</h4>
     </>
   )
 }
