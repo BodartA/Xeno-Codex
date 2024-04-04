@@ -19,6 +19,7 @@ function App() {
       <h1>Xeno Codex</h1>
       <h2>This tool can save you during your missions Helldivers !</h2>
       <h3>Ce jeu est vraiment top !</h3>
+      <h4>Très sympa ...</h4>
     </>
   )
 }
