@@ -1,25 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        <h1 className="text-9xl text-center text-yellow-500">XENO CODEX</h1>
+        <h2>Apprenez tout sur vos ennemis et éradiquez les !</h2>
+        <h3>Pour la Super Terre ...</h3>
+        <p>Test de texte</p>
       </div>
-      <h1>Xeno Codex</h1>
-      <h2>This tool can save you during your missions Helldivers !</h2>
-      <h3>Ce jeu est vraiment top !</h3>
-      <h4>Très sympa ...</h4>
     </>
   )
 }
