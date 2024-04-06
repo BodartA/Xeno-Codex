@@ -4,7 +4,12 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'roboto': ["Roboto", "sans-serif"],
+        'bungee': ["Bungee+Spice", "sans-serif"]
+      }
+    },
   },
   plugins: [],
 }

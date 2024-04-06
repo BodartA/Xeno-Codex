@@ -1,21 +1,13 @@
 import './App.css'
+import Navbar from './assets/components/Navbar'
 
 function App() {
-
   return (
     <>
-    {
-      // NAVBAR ICI
-    }
-
-    {
-      // BODY ICI
-    }
       <div>
-        <h1 className="text-9xl text-center text-yellow-500">XENO CODEX</h1>
-        <h2>Apprenez tout sur vos ennemis et éradiquez les !</h2>
-        <h3>Pour la Super Terre ...</h3>
-        <p>Test de texte</p>
+        <Navbar />
+        <div className='bg-zinc-800 w-full h-screen'>
+        </div>
       </div>
     </>
   )
