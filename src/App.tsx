@@ -1,4 +1,5 @@
 import './App.css'
+import Homepage from './assets/components/Homepage'
 import Navbar from './assets/components/Navbar'
 
 function App() {
@@ -6,7 +7,8 @@ function App() {
     <>
       <div>
         <Navbar />
-        <div className='bg-zinc-800 w-full h-screen'>
+        <div className='min-h-screen w-full bg-zinc-800'>
+          <Homepage />
         </div>
       </div>
     </>
