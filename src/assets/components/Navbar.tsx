@@ -6,8 +6,8 @@ import { Bars3BottomRightIcon, XMarkIcon } from '@heroicons/react/24/solid'
 const Navbar = () => {
 
   const Links = [
-    { name: "Automatons", link: "/" },
-    { name: "Termitides", link: "/" },
+    { name: "Automatons", link: "/automatons" },
+    { name: "Terminides", link: "/terminides" },
   ]
 
   const [isOpen, setIsOpen] = useState(false)
@@ -17,10 +17,12 @@ const Navbar = () => {
 
       <div className='font-mono text-zinc-800 md:px-5 py-4 px-3 md:flex justify-between items-center'>
 
-        <div className='flex text-4xl items-center gap-2'>
-          <img src={codexImage} className='w-10 h-10'></img>
-          <span className=' font-bold'>Xeno Codex</span>
-        </div>
+        <Link to={"/home"}>
+          <div className='flex text-4xl items-center gap-2'>
+            <img src={codexImage} className='w-10 h-10'></img>
+            <span className=' font-bold'>Xeno Codex</span>
+          </div>
+        </Link>
 
         <div onClick={() => setIsOpen(!isOpen)} className='w-7 h-7 absolute right-4 top-4 cursor-pointer md:hidden'>
           {
@@ -32,10 +34,12 @@ const Navbar = () => {
           {
             Links.map(link => (
               <li className=' font-semibold my-5 md:my-0 md:ml-8'>
-                <a href='/'>{link.name}</a>
+                <Link to={link.link}>{link.name}</Link>
               </li>))
           }
-          <button className='btn bg-zinc-800 text-yellow-400 py-1 px-3 md:ml-8 rounded md:static'>Connexion</button>
+          <Link to={"/login"}>
+            <button className='btn bg-zinc-800 text-yellow-400 py-1 px-3 md:ml-8 rounded md:static'>Connexion</button>
+          </Link>
         </ul>
 
       </div>

@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 const Homepage = () => {
 
     const Links = [
-        { name: "Automatons", link: "/" },
-        { name: "Terminides", link: "/" },
+        { name: "Automatons", link: "/automatons" },
+        { name: "Terminides", link: "/terminides" },
     ]
 
     return (
