@@ -8,10 +8,9 @@ import LoginPage from './assets/components/pages/LoginPage'
 
 function App() {
   return (
-    <>
-      <div>
+      <div className='bg-zinc-800 min-h-screen w-full'>
         <Navbar />
-        <div className='min-h-screen w-full bg-zinc-800'>
+        <div>
           <Routes>
             <Route path='/home' element={<Homepage />}></Route>
             <Route path='/terminides' element={<Terminides />}></Route>
@@ -19,8 +18,7 @@ function App() {
             <Route path='/login' element={<LoginPage />}></Route>
           </Routes>
         </div>
-      </div>Í
-    </>
+      </div>
   )
 }
 

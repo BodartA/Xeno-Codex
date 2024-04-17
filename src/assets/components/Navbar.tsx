@@ -13,7 +13,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <div className=' bg-yellow-400 shadow-md w-full fixed left-0 top-0'>
+    <div className=' bg-yellow-400 sticky top-0 left-0 shadow-md w-full'>
 
       <div className='font-mono text-zinc-800 md:px-5 py-4 px-3 md:flex justify-between items-center'>
 
