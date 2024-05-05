@@ -1,7 +1,7 @@
 import React from 'react';
 import titanImage from '../images/titan.png'
 
-const XenoCards = () => {
+const XenosCards = () => {
   return (
     <>
       <div className='grid m-4'>
@@ -16,4 +16,4 @@ const XenoCards = () => {
   );
 };
 
-export default XenoCards;
+export default XenosCards;
