@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Bile Titan",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 2,
+        "name": "Hunter",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "purple"
+    },
+    {
+        "id": 3,
+        "name": "Buddy",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "black"
+    },
+    {
+        "id": 3,
+        "name": "Buddy",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "green"
+    },
+    {
+        "id": 4,
+        "name": "Buddy",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 5,
+        "name": "Buddy",
+        "race": "Golden Retriever",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 6,
+        "name": "Buddy",
+        "race": "Golden Retriever",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 7,
+        "name": "Buddy",
+        "race": "Golden Retriever",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 8,
+        "name": "Buddy",
+        "race": "Golden Retriever",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 9,
+        "name": "Buddy",
+        "race": "Golden Retriever",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    }
+]
