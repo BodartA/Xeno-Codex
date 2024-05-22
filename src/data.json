@@ -1,35 +1,84 @@
 [
     {
         "id": 1,
-        "name": "Bile Titan",
+        "name": "Scavangers",
         "race": "Terminids",
         "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
         "color": "red"
     },
     {
         "id": 2,
-        "name": "Hunter",
+        "name": "Bile Scanvangers",
         "race": "Terminids",
         "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
         "color": "purple"
     },
     {
         "id": 3,
-        "name": "Buddy",
+        "name": "Hunters",
         "race": "Terminids",
         "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
         "color": "stone"
     },
     {
         "id": 4,
-        "name": "Buddy",
+        "name": "Shriekers",
         "race": "Terminids",
         "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
         "color": "green"
     },
     {
         "id": 5,
-        "name": "Buddy",
+        "name": "Warriors",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 6,
+        "name": "Stalker",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 7,
+        "name": "Hive Guard",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 8,
+        "name": "Nursing Spewer",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 9,
+        "name": "Bile Spewer",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 10,
+        "name": "Bile Titan",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 11,
+        "name": "Charger",
+        "race": "Terminids",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
+        "color": "red"
+    },
+    {
+        "id": 12,
+        "name": "Brood Commander",
         "race": "Terminids",
         "image": "https://firebasestorage.googleapis.com/v0/b/xeno-codex.appspot.com/o/titan.png?alt=media&token=6559f861-1448-46a8-9b62-a72ca75faf91",
         "color": "red"

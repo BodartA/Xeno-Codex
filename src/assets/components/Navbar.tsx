@@ -2,12 +2,13 @@ import { AdjustmentsHorizontalIcon, MagnifyingGlassCircleIcon } from '@heroicons
 
 const Navbar = () => {
 
-
   return (
-    <div className='flex mx-auto h-14 w-1/3 bg-white rounded-full border-zinc-800 border-2 z-10'>
-      <input className=" focus:outline-none pl-4 bg-transparent w-full font-mono" type='text' placeholder='Entrez votre menace ...'/>
-      <AdjustmentsHorizontalIcon className='' />
-      <MagnifyingGlassCircleIcon className='' />
+    <div className='flex justify-center pt-2 pb-16'>
+      <div className='flex h-14 w-1/3 bg-white rounded-full border-zinc-800 border-2'>
+        <input className=" focus:outline-none pl-4 bg-transparent w-full font-mono" type='text' placeholder='Entrez votre menace ...' />
+        <AdjustmentsHorizontalIcon className='' />
+        <MagnifyingGlassCircleIcon className='' />
+      </div>
     </div>
   );
 };
